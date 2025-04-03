@@ -14,6 +14,5 @@ Os adjunto la demo para que veaís fácilmente como funciona la app. No inspecci
 3. Primero, no tengáis en cuenta ninguna validación. Simplemente, haced que la información que escribís en el formulario, aparezca donde pertoque en la tarjeta
 4. Hay varias estrategias para validar los campos del formulario. TAmbién para limitar el número de carácteres. Exploradlas por vuestra cuenta y podéis tomar de referencia como está hecho en la solución, **PERO no tiene porque ser exactamente igual**. Sed críticos y pensad cuál es el problema a resolver en esta aplicación.
 5. Todo el formulario está dentro de una etiqueta _form_ , que es un tanto especial. Si no estáis familiarizados con event.preventDefault(), consultadmelo.
-6. Bonus! Puedes hacer que al seleccionar un valor, se quede marcado en naranja.
 
 ## Pregunta 1: Describe con lenguaje natural que tiene que hacer la app.
